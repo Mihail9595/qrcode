@@ -1,0 +1,12 @@
+.scan {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    p{ 
+        display: flex;
+        gap: 20px;
+        align-items: center;
+    }
+}

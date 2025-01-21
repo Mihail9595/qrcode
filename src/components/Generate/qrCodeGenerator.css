@@ -8,8 +8,13 @@
 }
 .input {
     border-radius: 5px;
-    background-color: rgb(199, 172, 172);
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
 }
 
 .btn {
+    background-color: #3ce911;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
 }
